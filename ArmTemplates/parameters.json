@@ -103,7 +103,7 @@
             "value": "pelicanuser1"
         },
         "adminPassword": {
-            "value": null
+            "value": "pelican@1234"
         }
     }
 }
