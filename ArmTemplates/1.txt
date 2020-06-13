@@ -3,3 +3,7 @@ Welcome to learn azure git repository with pelican
 Execution policy powershell
 
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+# delete resource group
+
+az group delete -n MyResourceGroup
